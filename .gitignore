@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# PyCharms
+.idea
+
+# Video Files
+*.avi
